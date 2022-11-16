@@ -1,0 +1,10 @@
+{
+  "minimum_amount": 500,
+  "refresh_rate": 30,
+  "mouse_movement": "False",
+  "windows_notification": "False",
+  "webhook_enabled": "True",
+  "webhook_ping": "<@here>",
+  "webhook": "https://discord.com/api/webhooks/xxxxxxx",
+  "authorization": "xxx"
+}
